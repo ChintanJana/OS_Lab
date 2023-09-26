@@ -45,9 +45,9 @@ int main() {
 }
 ~~~
 
-##Explanation
+## Explanation
 
-###Display Environment Variables:
+### Display Environment Variables:
 
 ~~~c
     /* Display environment variables using getenv call */
